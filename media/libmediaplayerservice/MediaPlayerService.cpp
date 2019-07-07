@@ -108,6 +108,9 @@
 static const int kDumpLockRetries = 50;
 static const int kDumpLockSleepUs = 20000;
 
+static const int kDumpLockRetries = 50;
+static const int kDumpLockSleepUs = 20000;
+
 namespace {
 using android::media::Metadata;
 using android::status_t;
